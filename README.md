@@ -14,7 +14,7 @@ A test project for using howler.js and Paper.js,
 
 ## Code writer
 
-- [Joshua Carr](https://github.com/joshua-carr)
+- [Joshua Carr](https://github.com/JCarr719)
 
 ## Tools
 
